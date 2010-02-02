@@ -3,7 +3,7 @@
 //  helloXcode
 //
 //  Created by Drew Tufano on 1/31/10.
-//  Copyright one massive point 2010. All rights reserved.
+//  Copyright One Massive Point 2010. All rights reserved.
 //
 
 #import "helloXcodeAppDelegate.h"
